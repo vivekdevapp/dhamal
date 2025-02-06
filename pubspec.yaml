@@ -39,6 +39,7 @@ dependencies:
   permission_handler: any
   syncfusion_flutter_pdfviewer: any
   shared_preferences: any
+  pdf_render: any
   
 
 dev_dependencies:
